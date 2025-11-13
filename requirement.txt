@@ -3,3 +3,5 @@ pandas
 numpy
 pymongo[srv]
 certifi
+pyaml
+scikit-learn
