@@ -5,3 +5,5 @@ pymongo[srv]
 certifi
 pyaml
 scikit-learn
+mlflow==2.10.0
+dagshub==0.3.25

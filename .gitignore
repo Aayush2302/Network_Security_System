@@ -2,3 +2,5 @@ network
 .env
 logs/
 Artifacts/
+mlruns/
+mlflow_model/
